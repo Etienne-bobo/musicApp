@@ -1,3 +1,2 @@
 # musicApp
-
-Fluuter music app
+music app build with Fluter
